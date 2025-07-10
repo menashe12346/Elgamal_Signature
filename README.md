@@ -66,5 +66,3 @@ python main.py
 ## 📚 Background
 
 The [ElGamal Signature Scheme](https://en.wikipedia.org/wiki/ElGamal_signature_scheme) is a public-key signature algorithm based on the discrete logarithm problem. It provides **authentication** and **integrity** for digital messages. This implementation follows the standard steps and mathematical rigor using safe primes and subgroup generation.
-
----
