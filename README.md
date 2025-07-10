@@ -56,7 +56,7 @@ Signature valid? True
 ## 🚀 How to Run
 
 ```bash
-python main.py
+python Elgamal_Signature.py
 ```
 
 ✅ You’ll be prompted to enter the bit-length of the subgroup order `q`.
